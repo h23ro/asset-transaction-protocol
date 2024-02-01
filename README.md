@@ -1,1 +1,1 @@
-# asset-transaction-protocol
+# Blockchain-Enhanced Asset Transaction Protocol
